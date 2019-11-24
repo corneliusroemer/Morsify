@@ -1,8 +1,6 @@
 # Morsify
 App for writing offline notes with a custom Morse single-input keyboard for Android Wear.
 
-<img src="art/demo.gif"> 
-
 ## Screenshots
 
 
