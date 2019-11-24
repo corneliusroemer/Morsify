@@ -1,38 +1,23 @@
-# Wear Offline Notes
-App for writing offline notes with a custom keyboard for Android Wear.
-
-## Demo
-You can check the app installing it directly on [Google Play](https://play.google.com/store/apps/details?id=com.gabrielmorenoibarra.offlinenotes).
+# Morsify
+App for writing offline notes with a custom Morse single-input keyboard for Android Wear.
 
 <img src="art/demo.gif"> 
 
 ## Screenshots
-<img src="art/1.png" width="100"> <img src="art/2.png" width="100">
-<img src="art/3.png" width="100">
-<img src="art/4.png" width="100">
-<img src="art/5.png" width="100">
-<img src="art/6.png" width="100">
-<img src="art/7.png" width="100">
-<img src="art/8.png" width="100">
+
 
 ## About
-I have implemented this project because I have got an old Android watch that the system soft keyboard does not work properly.
-I wanted to save notes when I do sports and the requirements were the following ones:
-- Easy to use 
-- Fully offline
-- Save data persistently
-- Use a custom keyboard
 
-The idea of using voice notes is not the best option for me.
-I prefer to write directly 1 or 2 words by keys and when I arrive at home, I do actions with those stored inputs.
+
+The
 
 ## Special Thanks
-This project has been implemented using part of the code and ideas from [Wear-Keyboard](https://github.com/idoideas/Wear-Keyboard) by [Ido Ideas](https://github.com/idoideas).
+This project has been implemented using part of the code and ideas from [Wear-Offline-Keyboard](https://github.com/GabrielMorenoIbarra/Wear-Offline-Notes).
 
 ## License
 
 ```
-  Copyright (C) 2019 Gabriel Moreno
+  Copyright (C) 2019 Cornelius Roemer
  
   Licensed under the Apache License, Version 2.0 (the "License");
   you may not use this file except in compliance with the License.
